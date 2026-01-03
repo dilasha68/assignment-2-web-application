@@ -1,0 +1,11 @@
+.blog-image {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.blog-card-img {
+  height: 220px;
+  object-fit: cover;
+}
