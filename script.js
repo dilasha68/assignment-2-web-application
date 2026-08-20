@@ -5,14 +5,14 @@ const blogs = [
     title: "Learning HTML and CSS",
     content:
       "HTML structures the web, while CSS styles it. Together they form the foundation of web development.",
-    image: "images/htmlcss.jpg"
+    image: "htmlcss.jpg"
   },
   {
     id: 2,
     title: "Introduction to JavaScript",
     content:
       "JavaScript allows you to add interactivity and dynamic content to web pages.",
-    image: "images/javascript.jpg"
+    image: "javascript.jpg"
   }
 ];
 
